@@ -1,0 +1,36 @@
+/* fonts */
+
+h1 {
+    font-family: 'Dosis', sans-serif
+}
+
+h2, p, ul, ol {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span {
+    font-size: 12px;
+    font-style: italic;
+}
+
+/* link styles*/
+a {
+    color: #680A0A;
+    text-decoration: none
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* page styles */
+
+Body {
+    width: fit-content;
+    margin: auto;
+    background-color: white;
+    padding: 10px 75px
+
+}
+html {
+    background-color: #680A0A
+}
